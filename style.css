@@ -113,7 +113,7 @@ height: 450px;
 
 #two
 {
-height: 1000px;
+height: 2700px;
   background: white;
   border: 1px solid var(--color-border);
   border-radius: 12px;
@@ -146,29 +146,28 @@ height: 1000px;
 
 #pic2
 {
-  height: 35%;
-  width: 35%;
-  margin-left: 50px;
-    margin-top: 50px;
+  height: 45%;
+  width: 45%;
+  margin-left: 40px;
+    margin-top: 120px;
   border-radius: 20px;
   box-shadow: 0px 5px 10px rgb(29, 29, 29);
 }
 
 #p
 {
-  height: 35%;
-  width: 35%;
-  margin-left: 500px;
-  margin-top: -30px;
+  height: 45%;
+  width: 45%;
+  margin-left: 490px;
   border-radius: 20px;
   box-shadow: 0px 5px 10px rgb(29, 29, 29);
 }
 
 #pi
 {
-  height: 35%;
-  width: 35%;
-  margin-left: 50px;
+  height: 45%;
+  width: 45%;
+  margin-left: 40px;
   border-radius: 20px;
   box-shadow: 0px 5px 10px rgb(29, 29, 29);
 }
@@ -185,4 +184,15 @@ footer {
   text-align: center;
   padding: 1rem;
   font-size: 0.9rem;
+}
+
+#three
+{
+height:500px;
+  background: white;
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  box-shadow: 0 3px 8px rgba(0,0,0,0.05);
+  padding: 1.5rem;
+  margin: 1rem;
 }
